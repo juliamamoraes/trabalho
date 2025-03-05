@@ -1,2 +1,2 @@
-# trabalho
+# meuprograma.c
 trabalho ads
